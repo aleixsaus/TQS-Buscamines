@@ -26,6 +26,7 @@ Taluer
     Desvetllar casella
         
 Casella
-    Agregació:      - Casella buida (si es prem les buides al voltant també s’obren)
-- Casella amb mina (perdre)
-- Casella amb número
+    Agregació:      
+    - Casella buida (si es prem les buides al voltant també s’obren)
+    - Casella amb mina (perdre)
+    - Casella amb número
